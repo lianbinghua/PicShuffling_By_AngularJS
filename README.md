@@ -1,0 +1,2 @@
+# PicShuffling_By_AngularJS
+AngularJS实现的图片轮放
